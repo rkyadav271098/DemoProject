@@ -14,10 +14,9 @@ public class Servlet1 extends HttpServlet {
 
 		PrintWriter out=response.getWriter();
 		out.println("Hello world");
-		out.println("Welcome to java world");
-		out.print("rani");
-		out.print("ravi");
+		out.println("Welcome to java world");	
 		out.println("Ravi-Rani");
+		out.println("---------------");
 	}
 
 
