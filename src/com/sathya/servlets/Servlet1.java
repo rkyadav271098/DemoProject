@@ -17,6 +17,7 @@ public class Servlet1 extends HttpServlet {
 		out.println("Welcome to java world");	
 		out.println("Ravi-Rani");
 		out.println("---------------");
+		out.println("Ravi Rani ---------------------");
 	}
 
 
